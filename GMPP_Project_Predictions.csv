@@ -1,0 +1,109 @@
+﻿Project_Name,Department,Department_Grouped,Baseline_Year,Latest_Year,Planned_Duration_Days,Baseline_WLC_GBPm,Baseline_IPA_RAG,OOF_Delay_Probability,Risk_Tier,Actual_Outcome,Department_OOF_Accuracy,Low_Reliability_Flag,Reliability_Label
+5G Testbeds & Trials,DCMS,DCMS,2018,2022,1492.0,217.05,Amber/Red,0.785,High,Delayed,0.636,False,✓ Within acceptable range
+Emergency Services Mobile Communications Programme (ESMCP),HO,Other,2018,2023,3501.0,5058.63,Amber/Red,0.771,High,Delayed,0.684,False,✓ Within acceptable range
+Building Safety Programme -  Non ACM Remediation,MHCLG,Other,2021,2022,1115.0,1026.03,Amber/Red,0.757,High,Delayed,0.684,False,✓ Within acceptable range
+Building Our Future Locations Programme,HMRC,Other,2016,2017,1917.0,2099.3,Amber/Red,0.748,High,Delayed,0.684,False,✓ Within acceptable range
+M20 Lorry Area,DFT,DFT,2016,2018,787.0,250.0,Red,0.743,High,Delayed,0.862,False,✓ Within acceptable range
+Local Full Fibre Networks,DCMS,DCMS,2018,2022,1705.0,318.7,Amber/Green,0.73,High,Delayed,0.636,False,✓ Within acceptable range
+"10,000 Additional Prison Places",MOJ,MOJ,2021,2022,2584.0,25596.47,Amber/Red,0.714,High,On Time,0.111,True,⚠ Low reliability — mandatory human review
+Nature for Climate Fund,DEFRA,DEFRA,2020,2023,1825.0,928.0,Red,0.697,High,On Time,0.7,False,✓ Within acceptable range
+A428 Black Cat to Caxton Gibbet,DFT,DFT,2018,2022,3653.0,809.8,Amber/Green,0.686,High,Delayed,0.862,False,✓ Within acceptable range
+Glen Parva New Build Prison,MOJ,MOJ,2021,2023,1739.0,6775.73,Amber/Green,0.648,High,On Time,0.111,True,⚠ Low reliability — mandatory human review
+Building Safety Programme ACM Remediation,MHCLG,Other,2021,2022,1841.0,589.3,Amber/Green,0.637,High,On Time,0.684,False,✓ Within acceptable range
+Periodic Review 2013 (Rail Investment Strategy - HLOS & SOFA),DFT,DFT,2013,2015,335.0,16840.61,Unknown,0.59,Medium,On Time,0.862,False,✓ Within acceptable range
+East West Rail Programme (Western Section),DFT,DFT,2016,2018,4169.0,1592.0,Amber/Red,0.574,Medium,Delayed,0.862,False,✓ Within acceptable range
+Prison Competitions Phase 2,MOJ,MOJ,2013,2014,933.0,786.6930689,Unknown,0.572,Medium,On Time,0.111,True,⚠ Low reliability — mandatory human review
+Towns Fund,DLUHC,DLUHC,2020,2023,2676.0,3106.0,Unknown,0.571,Medium,On Time,0.5,True,⚠ Low reliability — mandatory human review
+Smart Metering Implementation Programme,BEIS,Other,2018,2024,4047.0,17215.78,Amber/Red,0.565,Medium,Delayed,0.684,False,✓ Within acceptable range
+A303 Amesbury to Berwick Down,DFT,DFT,2016,2022,,385.11,Red,0.559,Medium,Delayed,0.862,False,✓ Within acceptable range
+Mobile Infrastructure Project,DCMS,DCMS,2013,2015,1277.0,155.0,Unknown,0.551,Medium,Delayed,0.636,False,✓ Within acceptable range
+New Hospital Programme,DHSC,Other,2020,2024,3651.0,3690.0,Red,0.541,Medium,Delayed,0.684,False,✓ Within acceptable range
+East Coast Mainline Programme,DFT,DFT,2018,2024,3531.0,1040.37,Amber/Green,0.538,Medium,Delayed,0.862,False,✓ Within acceptable range
+Prison Unit Cost Programme,MOJ,MOJ,2013,2014,1472.0,212.0,Unknown,0.524,Medium,On Time,0.111,True,⚠ Low reliability — mandatory human review
+New Polar Research Vessel,BEIS,Other,2018,2023,3166.0,1403.0,Amber,0.524,Medium,On Time,0.684,False,✓ Within acceptable range
+South West Route Capacity,DFT,DFT,2018,2021,2724.0,820.2,Amber/Green,0.522,Medium,Delayed,0.862,False,✓ Within acceptable range
+Urban Broadband Fund - Super-Connected City Initiative,DCMS,DCMS,2013,2014,846.0,150.0,Unknown,0.521,Medium,Delayed,0.636,False,✓ Within acceptable range
+Birmingham 2022 Commonwealth Games,DCMS,DCMS,2021,2022,1926.0,886.9,Amber,0.517,Medium,On Time,0.636,False,✓ Within acceptable range
+Affordable Homes Programme,DLUHC,DLUHC,2020,2023,3039.0,11609.0,Unknown,0.488,Medium,On Time,0.5,True,⚠ Low reliability — mandatory human review
+Submarine Waterfront Infrastructure Future,MOD,Other,2020,2023,3956.0,1428.0,Unknown,0.487,Medium,On Time,0.684,False,✓ Within acceptable range
+Broadband Delivery Programme,DCMS,DCMS,2013,2017,2217.0,529.0,Unknown,0.482,Medium,Delayed,0.636,False,✓ Within acceptable range
+NO2 Programme,DEFRA,DEFRA,2020,2024,4382.0,883.0,Unknown,0.458,Medium,On Time,0.7,False,✓ Within acceptable range
+Natural History Museum at Harwell,DCMS,DCMS,2021,2022,2786.0,181.76,Amber,0.428,Medium,On Time,0.636,False,✓ Within acceptable range
+River Thames Scheme,DEFRA,DEFRA,2021,2023,4383.0,308.48,Amber/Green,0.425,Medium,Delayed,0.7,False,✓ Within acceptable range
+700 MHz Clearance Programme,DCMS,DCMS,2018,2021,2545.0,594.92,Amber,0.402,Medium,On Time,0.636,False,✓ Within acceptable range
+A14 Cambridge to Huntingdon Improvement Scheme,DFT,DFT,2013,2018,2749.0,1519.318,Unknown,0.393,Medium,Delayed,0.862,False,✓ Within acceptable range
+Open Networks Programme,DSIT,Other,2020,2024,1307.0,325.0,Unknown,0.384,Medium,On Time,0.684,False,✓ Within acceptable range
+Priority School Building Programme 2,DFE,DFE,2015,2022,2526.0,1580.79,Unknown,0.367,Medium,Delayed,0.6,False,✓ Within acceptable range
+Youth Investment Fund,DCMS,DCMS,2020,2024,1095.0,310.0,Amber,0.366,Medium,Delayed,0.636,False,✓ Within acceptable range
+FE Capital Transformation,DFE,DFE,2020,2024,2190.0,43.0,Amber,0.352,Medium,On Time,0.6,False,✓ Within acceptable range
+Levelling Up Fund,DLUHC,DLUHC,2020,2024,1854.0,4800.0,Unknown,0.349,Low,Delayed,0.5,True,⚠ Low reliability — mandatory human review
+"10,000 Additional Prison Places Programme - Estate Expansions",MOJ,MOJ,2021,2022,2584.0,8003.04,Amber,0.342,Low,On Time,0.111,True,⚠ Low reliability — mandatory human review
+Low Cost Nuclear Programme (Rolls Royce SMRs Challenge),DESNZ,DESNZ,2020,2024,1430.0,468.0,Unknown,0.341,Low,On Time,0.917,False,✓ Within acceptable range
+Accelerated Houseblocks,MOJ,MOJ,2022,2024,1323.0,12208.0,Amber,0.34,Low,Delayed,0.111,True,⚠ Low reliability — mandatory human review
+Rail Franchising Programme,DFT,DFT,2014,2017,3567.0,134.2,Unknown,0.339,Low,On Time,0.862,False,✓ Within acceptable range
+Automotive Transformation Fund,DBT,Other,2020,2023,1704.0,671.0,Unknown,0.324,Low,On Time,0.684,False,✓ Within acceptable range
+Levelling Up Home Building Fund,DLUHC,DLUHC,2020,2024,3778.0,2206.0,Unknown,0.323,Low,Delayed,0.5,True,⚠ Low reliability — mandatory human review
+Replacement Analytical Project,DESNZ,DESNZ,2020,2024,4305.0,735.0,Red,0.322,Low,Delayed,0.917,False,✓ Within acceptable range
+Royal Liverpool & Broadgreen ('World Class Hospitals; World Class Services - Renewing the Royal Liverpool University Hospital'),DoH,DoH,2013,2014,2345.0,837.0,Unknown,0.319,Low,On Time,1.0,False,✓ Within acceptable range
+Priority School Building Programme - Private Finance,DFE,DFE,2014,2016,2204.0,,Unknown,0.316,Low,Delayed,0.6,False,✓ Within acceptable range
+Further Electrification of Midland Main Line (MML3),DFT,DFT,2020,2023,3997.0,1468.0,Amber,0.314,Low,On Time,0.862,False,✓ Within acceptable range
+Crossrail,DFT,DFT,2013,2014,4179.0,14518.98,Unknown,0.313,Low,On Time,0.862,False,✓ Within acceptable range
+Crossrail Programme,DFT,DFT,2015,2023,4179.0,14768.87,Unknown,0.313,Low,Delayed,0.862,False,✓ Within acceptable range
+PHE Science Hub,DHSC,Other,2018,2023,4204.0,2656.32,Amber,0.305,Low,Delayed,0.684,False,✓ Within acceptable range
+Royal National Orthopaedic Hospital (RNOH) NHS Trust PFI Project,DoH,DoH,2013,2014,2144.0,208.79,Unknown,0.303,Low,On Time,1.0,False,✓ Within acceptable range
+E&N Herts NHS Trust - Lister Hospital ('Our Changing Hospitals' Phase 4 Programme),DoH,DoH,2013,2014,956.0,212.03,Unknown,0.301,Low,On Time,1.0,False,✓ Within acceptable range
+North Wales Prison (NWP ) Programme,MOJ,MOJ,2015,2016,1906.0,2541.0,Unknown,0.301,Low,Delayed,0.111,True,⚠ Low reliability — mandatory human review
+Project Gigabit,DSIT,Other,2020,2024,3561.0,5404.0,Amber,0.298,Low,On Time,0.684,False,✓ Within acceptable range
+Rapid Deployment Cells Project,MOJ,MOJ,2022,2024,1292.0,244.0,Unknown,0.293,Low,Delayed,0.111,True,⚠ Low reliability — mandatory human review
+Grenfell Site and Programme,DLUHC,DLUHC,2020,2024,3853.0,290.0,Unknown,0.292,Low,Delayed,0.5,True,⚠ Low reliability — mandatory human review
+Housing Infrastructure Fund,DLUHC,DLUHC,2020,2024,4109.0,4257.0,Amber,0.283,Low,On Time,0.5,True,⚠ Low reliability — mandatory human review
+Natural History Museum Unlocked,DCMS,DCMS,2020,2024,4521.0,228.0,Amber,0.28,Low,On Time,0.636,False,✓ Within acceptable range
+Bridgwater Barrier,DEFRA,DEFRA,2021,2023,6149.0,211.08,Amber/Green,0.279,Low,On Time,0.7,False,✓ Within acceptable range
+"Brighton & Sussex University Hospitals NHS Trust (3Ts Programme - The development of a leading teaching, trauma and tertiary care centre)",DoH,DoH,2013,2014,3619.0,500.8,Unknown,0.278,Low,On Time,1.0,False,✓ Within acceptable range
+Sandwell and West Birmingham Hospitals NHS Trust - The Midland Metropolitan Hospital Project,DoH,DoH,2013,2014,3834.0,1116.0,Unknown,0.276,Low,On Time,1.0,False,✓ Within acceptable range
+Nuclear Warhead Capability Sustainment Programme,MOD,Other,2013,2017,6238.0,21883.89,Unknown,0.267,Low,On Time,0.684,False,✓ Within acceptable range
+Lower Thames Crossing,DFT,DFT,2017,2024,5176.0,4648.8,Amber/Red,0.258,Low,Delayed,0.862,False,✓ Within acceptable range
+Public Sector Decarbonisation Scheme (PSDS),DESNZ,DESNZ,2020,2023,1727.0,2565.0,Amber,0.256,Low,On Time,0.917,False,✓ Within acceptable range
+Heat Networks Investment Project,BEIS,Other,2018,2022,1953.0,371.8,Amber,0.255,Low,Delayed,0.684,False,✓ Within acceptable range
+Leeds Phase 2 Flood Scheme,DEFRA,DEFRA,2021,2023,2969.0,146.37,Amber,0.252,Low,On Time,0.7,False,✓ Within acceptable range
+Prison Estate Transformation Programme (PETP),MOJ,MOJ,2016,2018,2100.0,0.0,Amber,0.247,Low,Delayed,0.111,True,⚠ Low reliability — mandatory human review
+Social Housing Decarbonisation Fund,DESNZ,DESNZ,2020,2024,3490.0,4558.0,Amber,0.245,Low,On Time,0.917,False,✓ Within acceptable range
+A417 Air Balloon,DFT,DFT,2020,2024,4535.0,535.0,Unknown,0.245,Low,On Time,0.862,False,✓ Within acceptable range
+Rapid Charging Fund,DFT,DFT,2020,2024,2713.0,35.0,Amber,0.236,Low,On Time,0.862,False,✓ Within acceptable range
+Green Heat Network Fund,DESNZ,DESNZ,2020,2023,2307.0,43.0,Unknown,0.216,Low,On Time,0.917,False,✓ Within acceptable range
+NZHF,DESNZ,DESNZ,2020,2023,1594.0,242.0,Amber,0.209,Low,On Time,0.917,False,✓ Within acceptable range
+Freeports,DLUHC,DLUHC,2020,2024,3248.0,229.0,Amber,0.194,Low,On Time,0.5,True,⚠ Low reliability — mandatory human review
+Blythe House Programme,DCMS,DCMS,2018,2023,2683.0,338.0,Amber,0.192,Low,Delayed,0.636,False,✓ Within acceptable range
+CCUS,DESNZ,DESNZ,2020,2023,3926.0,43.0,Unknown,0.178,Low,On Time,0.917,False,✓ Within acceptable range
+Washington Embassy Refurbishment,FCO,Other,2018,2023,2171.0,63.7,Amber,0.172,Low,Delayed,0.684,False,✓ Within acceptable range
+Sellafield Product and Residue Store Retreatment Plant,DESNZ,DESNZ,2020,2023,6431.0,1433.0,Green,0.17,Low,On Time,0.917,False,✓ Within acceptable range
+East Coast Digital Programme,DFT,DFT,2020,2024,4914.0,3477.0,Unknown,0.168,Low,On Time,0.862,False,✓ Within acceptable range
+School Rebuilding Programme,DFE,DFE,2020,2021,5629.0,,Amber,0.164,Low,On Time,0.6,False,✓ Within acceptable range
+Building Schools for the Future (BSF),DFE,DFE,2013,2014,4840.0,6302.0,Unknown,0.16,Low,On Time,0.6,False,✓ Within acceptable range
+High Speed Rail Programme,DFT,DFT,2013,2014,8342.0,42600.0,Unknown,0.159,Low,On Time,0.862,False,✓ Within acceptable range
+High Speed Rail Programme (HS2),DFT,DFT,2015,2018,8342.0,42559.51,Unknown,0.159,Low,On Time,0.862,False,✓ Within acceptable range
+Thames Estuary Programme Phase 1 (TEP1),DEFRA,DEFRA,2013,2014,5753.0,318.74,Unknown,0.155,Low,On Time,0.7,False,✓ Within acceptable range
+Thames Estuary Asset Management Programme (TEAM2100),DEFRA,DEFRA,2015,2016,5753.0,318.42,Unknown,0.155,Low,On Time,0.7,False,✓ Within acceptable range
+Remediation Portfolio,DLUHC,DLUHC,2020,2024,4662.0,9915.0,Amber,0.14,Low,On Time,0.5,True,⚠ Low reliability — mandatory human review
+Lower Thames Crossing Feasibility,DFT,DFT,2015,2016,4598.0,199.1,Unknown,0.135,Low,On Time,0.862,False,✓ Within acceptable range
+Thames Tideway Tunnel,DEFRA,DEFRA,2013,2016,4588.0,4217.88,Unknown,0.133,Low,Delayed,0.7,False,✓ Within acceptable range
+Airport Capacity Programme,DFT,DFT,2016,2017,5297.0,79.0,Amber,0.13,Low,On Time,0.862,False,✓ Within acceptable range
+Shared Rural Network,DSIT,Other,2020,2024,7305.0,512.0,Unknown,0.126,Low,On Time,0.684,False,✓ Within acceptable range
+East West Rail Connection Stage 2 & 3,DFT,DFT,2020,2023,5913.0,3970.0,Unknown,0.125,Low,On Time,0.862,False,✓ Within acceptable range
+A66 Northern Trans-Pennine,DFT,DFT,2020,2023,4652.0,43.0,Unknown,0.116,Low,On Time,0.862,False,✓ Within acceptable range
+Defence Information Infrastructure,MOD,Other,2013,2014,4947.0,7349.97,Unknown,0.115,Low,On Time,0.684,False,✓ Within acceptable range
+Hydrogen Allocation Round 1 (HAR1),DESNZ,DESNZ,2020,2024,7285.0,2366.0,Unknown,0.112,Low,On Time,0.917,False,✓ Within acceptable range
+St Helena Airport,DFID,Other,2013,2021,7839.0,445.11,Unknown,0.112,Low,On Time,0.684,False,✓ Within acceptable range
+Science Capability in Animal Health Programme,DEFRA,DEFRA,2020,2023,5661.0,2820.0,Amber,0.108,Low,On Time,0.7,False,✓ Within acceptable range
+SIXEP Continuity Plant,DESNZ,DESNZ,2020,2024,6452.0,1076.0,Unknown,0.101,Low,On Time,0.917,False,✓ Within acceptable range
+Transpennine Route Upgrade,DFT,DFT,2020,2024,8874.0,11104.0,Amber,0.093,Low,On Time,0.862,False,✓ Within acceptable range
+BEPPS2,DESNZ,DESNZ,2020,2024,6450.0,727.0,Unknown,0.087,Low,On Time,0.917,False,✓ Within acceptable range
+Northern Powerhouse Rail (NPR),DFT,DFT,2020,2023,10803.0,30600.0,Amber,0.084,Low,On Time,0.862,False,✓ Within acceptable range
+Midlands Rail Hub,DFT,DFT,2020,2024,8675.0,1569.0,Amber,0.081,Low,On Time,0.862,False,✓ Within acceptable range
+East West Rail Configuration State 1,DFT,DFT,2020,2023,5024.0,1353.0,Amber,0.078,Low,On Time,0.862,False,✓ Within acceptable range
+Thameslink Programme,DFT,DFT,2018,2021,7853.0,7269.4,Amber,0.075,Low,On Time,0.862,False,✓ Within acceptable range
+Spherical Tokamak for Energy Production,DESNZ,DESNZ,2020,2023,9756.0,238.0,Amber,0.074,Low,On Time,0.917,False,✓ Within acceptable range
+Geological Disposal Facility Programme (GDF),DECC,Other,2013,2023,11872.0,11626.4,Unknown,0.067,Low,Delayed,0.684,False,✓ Within acceptable range
+Oxford Flood Alleviation Scheme,DEFRA,DEFRA,2021,2023,5761.0,204.83,Amber,0.064,Low,On Time,0.7,False,✓ Within acceptable range
+A12 Chelmsford to A120 Widening,DFT,DFT,2020,2023,4870.0,43.0,Unknown,0.049,Low,On Time,0.862,False,✓ Within acceptable range
+Midland Main Line Programme,DFT,DFT,2018,2023,5113.0,1671.2,Amber,0.044,Low,On Time,0.862,False,✓ Within acceptable range
